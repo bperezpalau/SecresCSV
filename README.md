@@ -8,9 +8,9 @@ The application can handle longer lines than Microsoft Excel<sup>1</sup>.
 ## New features of this modified version
 
 This versiones includes 3 news menu options:
--Separator: Let you choose the CSV separator
--Header: Let you choose if you want to be asked for file header
--Encoding: Let you choose 2 types of encoding files (ANSI and UTF8)
+*Separator: Let you choose the CSV separator
+*Header: Let you choose if you want to be asked for file header
+*Encoding: Let you choose 2 types of encoding files (ANSI and UTF8)
 
 This menu options will be also asked when you open a file if you want. You can avoid on the menu option this questions.
 
