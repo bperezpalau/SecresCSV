@@ -1,7 +1,18 @@
 # SecresCSV
 
+MODIFIED VERSION OF THE ORIGINAL ONE (https://github.com/PranavAmarnath/SecresCSV) 
+
 A Java Swing application for opening/viewing, saving, printing, editing and/or refreshing multiple CSV files at a time in tabular format.
 The application can handle longer lines than Microsoft Excel<sup>1</sup>.
+
+## New features of this modified version
+
+This versiones includes 3 news menu options:
+-Separator: Let you choose the CSV separator
+-Header: Let you choose if you want to be asked for file header
+-Encoding: Let you choose 2 types of encoding files (ANSI and UTF8)
+
+This menu options will be also asked when you open a file if you want. You can avoid on the menu option this questions.
 
 ## Download
 <a href="https://github.com/PranavAmarnath/SecresCSV/releases/download/v3.0/secrescsv-3.0-SNAPSHOT.jar">
